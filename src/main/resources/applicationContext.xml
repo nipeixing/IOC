@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans>
+    <bean id="student1" class="com.bwei.pojo.Student">
+        <property name="id" value="01"></property>
+        <property name="name" value="zhang"></property>
+        <property name="sex" value="男"></property>
+    </bean>
+    <bean id="student2" class="com.bwei.pojo.Student">
+        <property name="id" value="02"></property>
+        <property name="name" value="zhang"></property>
+        <property name="sex" value="男"></property>
+    </bean>
+</beans>
